@@ -1,0 +1,1 @@
+(function(){describe("Mather",function(){Given(function(){return this.subject=new Mather});Then(function(){return this.subject});return describe("#add",function(){Then(function(){return this.subject.add(1)===1});Then(function(){return this.subject.add(1,2)===3});return Then(function(){return this.subject.add(1,2,3)===6})})})}).call(this);
