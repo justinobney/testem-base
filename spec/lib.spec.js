@@ -1,1 +1,0 @@
-(function(){describe("Lib",function(){})}).call(this);
